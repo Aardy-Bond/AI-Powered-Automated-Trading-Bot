@@ -85,10 +85,10 @@ const Footer = () => {
           </div>
           
           <SocialLinks>
-            <a href="https://github.com/aaryanbondekar" aria-label="GitHub" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Aardy-Bond" aria-label="GitHub" target="_blank" rel="noopener noreferrer">
               <FaGithub />
             </a>
-            <a href="https://www.linkedin.com/in/aaryanbondekar" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/aaryanbondekar/" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
               <FaLinkedin />
             </a>
           </SocialLinks>
